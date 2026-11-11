@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#3A2A4F">
+<meta name="mobile-web-app-capable" content="yes">
+<title>Tara Siaga: Ayo Bermain Aman!</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='20' fill='%23FF6F5B' stroke='%233A2A4F' stroke-width='4'/%3E%3Crect x='14' y='24' width='20' height='14' rx='6' fill='%23FFF8EA'/%3E%3Crect x='15' y='12' width='5' height='16' rx='2.5' fill='%23FFF8EA'/%3E%3Crect x='21' y='9' width='5' height='18' rx='2.5' fill='%23FFF8EA'/%3E%3Crect x='27' y='11' width='5' height='17' rx='2.5' fill='%23FFF8EA'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/gaya.css">
+<script>
+/* pengaman ringan (pola Kafe Cilik): tanpa klik kanan, salin, potong, tempel, dan Ctrl+U, tanpa pemberitahuan. */
+(function () {
+  function cegah(e) { var t = e.target && e.target.tagName; if (t === 'INPUT' || t === 'TEXTAREA') return; e.preventDefault(); }
+  ['contextmenu', 'copy', 'cut', 'paste'].forEach(function (n) { document.addEventListener(n, cegah, true); });
+  document.addEventListener('keydown', function (e) { if ((e.ctrlKey || e.metaKey) && (e.key === 'u' || e.key === 'U' || e.keyCode === 85)) e.preventDefault(); }, true);
+})();
+</script>
+</head>
+<body>
+<div id="stage">
+  <div id="scene-root"></div>
+  <div id="cover"></div>
+</div>
+<div id="rotate"><svg viewBox="0 0 100 100" aria-hidden="true"><rect x="30" y="8" width="40" height="84" rx="8" fill="none" stroke="#FFF8EA" stroke-width="6"/><circle cx="50" cy="80" r="4" fill="#FFF8EA"/><path d="M84 40a30 30 0 0 1-10 34" fill="none" stroke="#FFC83D" stroke-width="6" stroke-linecap="round"/></svg><div id="rotate-text"></div></div>
+<script src="js/data/strings.js"></script>
+<script src="config/suara.js"></script>
+<script src="config/tempat.js"></script>
+<script src="js/data/aset.js"></script>
+<script src="js/engine/util.js"></script>
+<script src="js/engine/tween.js"></script>
+<script src="js/engine/save.js"></script>
+<script src="js/engine/audio.js"></script>
+<script src="js/engine/scene.js"></script>
+<script src="js/engine/fullscreen.js"></script>
+<script src="js/engine/input.js"></script>
+<script src="js/engine/seni.js"></script>
+<script src="js/engine/seni-benda.js"></script>
+<script src="js/engine/aktor.js"></script>
+<script src="js/engine/ui.js"></script>
+<script src="js/engine/muat.js"></script>
+<script src="js/engine/adaptif.js"></script>
+<script src="js/engine/aturan.js"></script>
+<script src="js/data/gambar.js"></script>
+<script src="js/data/gambar2.js"></script>
+<script src="js/data/gambar3.js"></script>
+<script src="js/scenes/judul.js"></script>
+<script src="js/scenes/peta.js"></script>
+<script src="js/scenes/t1.js"></script>
+<script src="js/scenes/t2.js"></script>
+<script src="js/scenes/t3.js"></script>
+<script src="js/scenes/t4.js"></script>
+<script src="js/scenes/t5.js"></script>
+<script src="js/scenes/sela.js"></script>
+<script src="js/scenes/tempat.js"></script>
+<script src="js/scenes/pawai.js"></script>
+<script src="js/scenes/hasil.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

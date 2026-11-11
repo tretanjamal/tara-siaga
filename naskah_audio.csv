@@ -1,0 +1,404 @@
+﻿id,pembicara,bahasa,teks,konteks
+tara_halo,tara,id-ID,"Halo, aku Tara!",Ucapan umum Tara
+tara_ajak,tara,id-ID,Ayo bantu Tim Siaga.,Ucapan umum Tara
+tara_hook,tara,id-ID,Ada yang berbahaya. Ketuk!,Ucapan umum Tara
+tara_cari,tara,id-ID,"Temukan yang berbahaya, ya.",Ucapan umum Tara
+tara_endus,tara,id-ID,"Hmm, Tara mencium sesuatu.",Ucapan umum Tara
+tara_sudahAman,tara,id-ID,Yang ini sudah aman.,Ucapan umum Tara
+tara_pilihKartu,tara,id-ID,Ketuk satu kartu.,Ucapan umum Tara
+tara_tunjukKartu,tara,id-ID,Yang ini caranya.,Ucapan umum Tara
+tara_sisik,tara,id-ID,"Hore, sisik emas!",Ucapan umum Tara
+tara_sisikPerak,tara,id-ID,"Hore, sisik perak!",Ucapan umum Tara
+tara_lihatLagi,tara,id-ID,"Lihat lagi, ya.",Ucapan umum Tara
+tara_momenSiap,tara,id-ID,Siapkan tanganmu.,Ucapan umum Tara
+tara_tekanTahan,tara,id-ID,Tekan TAHAN kalau berbahaya!,Ucapan umum Tara
+tara_ulangAkhir,tara,id-ID,Ayo kita ingat lagi!,Ucapan umum Tara
+tara_hampir,tara,id-ID,Hampir! Ayo tekan TAHAN bersama.,Ucapan umum Tara
+tara_tahanBagus,tara,id-ID,Tepat sekali!,Ucapan umum Tara
+tara_semuaKetemu,tara,id-ID,Semua bahaya sudah aman.,Ucapan umum Tara
+ritme_berhenti,tara,id-ID,Berhenti!,Ritme Siaga: langkah BERHENTI
+keluarga_HATI,tara,id-ID,"Hmm, hati-hati saja belum cukup.",Balasan umum pengecoh keluarga HATI
+keluarga_CEPAT,tara,id-ID,"Kalau terburu-buru, kita mudah celaka.",Balasan umum pengecoh keluarga CEPAT
+keluarga_SEBENTAR,tara,id-ID,"Sebentar, sedikit, atau nanti, tetap berbahaya.",Balasan umum pengecoh keluarga SEBENTAR
+keluarga_DIAM,tara,id-ID,Memberi tahu orang dewasa itu berani dan benar.,Balasan umum pengecoh keluarga DIAM
+keluarga_SENDIRI,tara,id-ID,"Untuk hal ini, kita perlu orang dewasa.",Balasan umum pengecoh keluarga SENDIRI
+keluarga_IKUT,tara,id-ID,"Walau seru, tetap berbahaya.",Balasan umum pengecoh keluarga IKUT
+kilat_tanya,tara,id-ID,Aman atau tahan?,Kartu Kilat
+kilat_benarAman,tara,id-ID,"Betul, itu aman.",Kartu Kilat
+kilat_benarTahan,tara,id-ID,"Betul, itu harus ditahan.",Kartu Kilat
+t1_masuk,tara,id-ID,Ini taman bermain sekolah.,Taman Bermain: masuk
+t1_ayunan_lihat_1,tara,id-ID,Rantai ayunan putus.,"Taman Bermain, bahaya ayunan: LIHAT"
+t1_ayunan_lihat_2,tara,id-ID,Sari mau duduk di situ.,"Taman Bermain, bahaya ayunan: LIHAT"
+t1_ayunan_tanya,tara,id-ID,Apa yang sebaiknya Sari lakukan?,"Taman Bermain, bahaya ayunan: PIKIR"
+t1_ayunan_kartu_guru,tara,id-ID,Panggil Bu Guru,"Taman Bermain, bahaya ayunan: kartu benar"
+t1_ayunan_kartu_duduk,tara,id-ID,Duduk pelan-pelan saja,"Taman Bermain, bahaya ayunan: kartu pengecoh HATI"
+t1_ayunan_kartu_diam,tara,id-ID,"Diam saja, takut dimarahi","Taman Bermain, bahaya ayunan: kartu pengecoh DIAM (cadangan)"
+t1_ayunan_balas_duduk,tara,id-ID,"Rantainya putus, jadi bisa jatuh.","Taman Bermain, bahaya ayunan: balasan bila memilih ""Duduk pelan-pelan saja"""
+t1_ayunan_balas_diam,tara,id-ID,Bu Guru perlu tahu ayunannya rusak.,"Taman Bermain, bahaya ayunan: balasan bila memilih ""Diam saja, takut dimarahi"""
+t1_ayunan_aman,guru,id-ID,Terima kasih sudah memberi tahu!,"Taman Bermain, bahaya ayunan: adegan ulang aman"
+t1_ayunan_aturan,tara,id-ID,Aku tidak memakai ayunan yang rusak.,"Taman Bermain, bahaya ayunan: aturan sisik"
+t1_ayunan_kilat,tara,id-ID,"Ayunan bagus, Dina duduk berpegangan.","Taman Bermain, bahaya ayunan: Kartu Kilat"
+t1_ayunan_alasan,tara,id-ID,"Ayunannya tidak rusak, Dina berpegangan.","Taman Bermain, bahaya ayunan: alasan Kartu Kilat dan papan Pawai"
+t1_lari_lihat_1,tara,id-ID,Lala lari di depan ayunan.,"Taman Bermain, bahaya lari: LIHAT"
+t1_lari_lihat_2,tara,id-ID,Dina sedang berayun.,"Taman Bermain, bahaya lari: LIHAT"
+t1_lari_tanya,tara,id-ID,Apa yang sebaiknya Lala lakukan?,"Taman Bermain, bahaya lari: PIKIR"
+t1_lari_kartu_jauh,tara,id-ID,Lewat jauh dari ayunan,"Taman Bermain, bahaya lari: kartu benar"
+t1_lari_kartu_cepat,tara,id-ID,Lari cepat lewat depan,"Taman Bermain, bahaya lari: kartu pengecoh CEPAT"
+t1_lari_kartu_hati,tara,id-ID,Lewat depan sambil hati-hati,"Taman Bermain, bahaya lari: kartu pengecoh HATI (cadangan)"
+t1_lari_balas_cepat,tara,id-ID,Ayunan bisa mengenai Lala.,"Taman Bermain, bahaya lari: balasan bila memilih ""Lari cepat lewat depan"""
+t1_lari_balas_hati,tara,id-ID,Ayunan tetap bisa mengenai Lala.,"Taman Bermain, bahaya lari: balasan bila memilih ""Lewat depan sambil hati-hati"""
+t1_lari_aman,tara,id-ID,Lewat jauh dari ayunan. Aman!,"Taman Bermain, bahaya lari: adegan ulang aman"
+t1_lari_aturan,tara,id-ID,Aku lewat jauh dari ayunan.,"Taman Bermain, bahaya lari: aturan sisik"
+t1_lari_kilat,tara,id-ID,Lala lewat jauh dari ayunan.,"Taman Bermain, bahaya lari: Kartu Kilat"
+t1_lari_alasan,tara,id-ID,Ayunan tidak bisa mengenai Lala.,"Taman Bermain, bahaya lari: alasan Kartu Kilat dan papan Pawai"
+t1_dorong_lihat,tara,id-ID,Mereka saling dorong di tangga.,"Taman Bermain, bahaya dorong: LIHAT"
+t1_dorong_tanya,tara,id-ID,Apa yang sebaiknya Raka lakukan?,"Taman Bermain, bahaya dorong: PIKIR"
+t1_dorong_kartu_antre,tara,id-ID,Antre satu per satu,"Taman Bermain, bahaya dorong: kartu benar"
+t1_dorong_kartu_dorong,tara,id-ID,Dorong supaya cepat,"Taman Bermain, bahaya dorong: kartu pengecoh CEPAT"
+t1_dorong_kartu_ikut,tara,id-ID,"Ikut dorong, seru!","Taman Bermain, bahaya dorong: kartu pengecoh IKUT (cadangan)"
+t1_dorong_balas_dorong,tara,id-ID,Didorong di tangga bisa jatuh.,"Taman Bermain, bahaya dorong: balasan bila memilih ""Dorong supaya cepat"""
+t1_dorong_balas_ikut,tara,id-ID,Tangga tinggi bukan tempat bercanda.,"Taman Bermain, bahaya dorong: balasan bila memilih ""Ikut dorong, seru!"""
+t1_dorong_aman,tara,id-ID,Antre itu aman dan adil.,"Taman Bermain, bahaya dorong: adegan ulang aman"
+t1_dorong_aturan,tara,id-ID,Aku antre di tangga perosotan.,"Taman Bermain, bahaya dorong: aturan sisik"
+t1_dorong_kilat,tara,id-ID,Raka mendorong teman di tangga.,"Taman Bermain, bahaya dorong: Kartu Kilat"
+t1_dorong_alasan,tara,id-ID,Mendorong di tangga bisa membuat jatuh.,"Taman Bermain, bahaya dorong: alasan Kartu Kilat dan papan Pawai"
+t1_kaca_lihat,tara,id-ID,Ada pecahan kaca di pasir.,"Taman Bermain, bahaya kaca: LIHAT"
+t1_kaca_tanya,tara,id-ID,Apa yang sebaiknya kita lakukan?,"Taman Bermain, bahaya kaca: PIKIR"
+t1_kaca_kartu_guru,tara,id-ID,"Jangan sentuh, panggil Bu Guru","Taman Bermain, bahaya kaca: kartu benar"
+t1_kaca_kartu_ambil,tara,id-ID,Ambil sendiri lalu buang,"Taman Bermain, bahaya kaca: kartu pengecoh SENDIRI"
+t1_kaca_kartu_diam,tara,id-ID,"Diam saja, terus main","Taman Bermain, bahaya kaca: kartu pengecoh DIAM (cadangan)"
+t1_kaca_balas_ambil,tara,id-ID,Pecahan kaca bisa melukai tangan.,"Taman Bermain, bahaya kaca: balasan bila memilih ""Ambil sendiri lalu buang"""
+t1_kaca_balas_diam,tara,id-ID,Teman lain bisa terluka.,"Taman Bermain, bahaya kaca: balasan bila memilih ""Diam saja, terus main"""
+t1_kaca_aman,guru,id-ID,"Terima kasih, Ibu bersihkan, ya.","Taman Bermain, bahaya kaca: adegan ulang aman"
+t1_kaca_aturan,tara,id-ID,Aku tidak menyentuh pecahan kaca.,"Taman Bermain, bahaya kaca: aturan sisik"
+t1_kaca_kilat,tara,id-ID,Bima memungut pecahan kaca.,"Taman Bermain, bahaya kaca: Kartu Kilat"
+t1_pagar_lihat,tara,id-ID,Ayu memanjat pagar tinggi.,"Taman Bermain, bahaya pagar: LIHAT"
+t1_pagar_tanya,tara,id-ID,Apa yang sebaiknya Ayu lakukan?,"Taman Bermain, bahaya pagar: PIKIR"
+t1_pagar_kartu_turun,tara,id-ID,"Turun, main di panjatan rendah","Taman Bermain, bahaya pagar: kartu benar"
+t1_pagar_kartu_hati,tara,id-ID,Terus memanjat sambil hati-hati,"Taman Bermain, bahaya pagar: kartu pengecoh HATI"
+t1_pagar_kartu_cepat,tara,id-ID,Panjat cepat-cepat,"Taman Bermain, bahaya pagar: kartu pengecoh CEPAT (cadangan)"
+t1_pagar_balas_hati,tara,id-ID,Pagar setinggi itu bisa membuat jatuh.,"Taman Bermain, bahaya pagar: balasan bila memilih ""Terus memanjat sambil hati-hati"""
+t1_pagar_balas_cepat,tara,id-ID,Memanjat cepat-cepat lebih mudah jatuh.,"Taman Bermain, bahaya pagar: balasan bila memilih ""Panjat cepat-cepat"""
+t1_pagar_aman,tara,id-ID,Panjatan rendah lebih aman.,"Taman Bermain, bahaya pagar: adegan ulang aman"
+t1_pagar_aturan,tara,id-ID,Aku tidak memanjat pagar tinggi.,"Taman Bermain, bahaya pagar: aturan sisik"
+t1_pagar_kilat,tara,id-ID,Ayu bermain di panjatan rendah.,"Taman Bermain, bahaya pagar: Kartu Kilat"
+t1_pagar_alasan,tara,id-ID,"Panjatannya rendah, cocok untuk anak.","Taman Bermain, bahaya pagar: alasan Kartu Kilat dan papan Pawai"
+t1_momen_siap,tara,id-ID,Lihat Raka!,"Taman Bermain, Momen Tahan: persiapan"
+t1_momen_lihat,tara,id-ID,Raka mau melompat dari atas!,"Taman Bermain, Momen Tahan: LIHAT"
+t1_momen_kartu_duduk,tara,id-ID,"Meluncur duduk, kaki di depan","Taman Bermain, Momen Tahan: kartu benar"
+t1_momen_kartu_lompat,tara,id-ID,"Lompat saja, seru!","Taman Bermain, Momen Tahan: kartu pengecoh IKUT"
+t1_momen_kartu_pelan,tara,id-ID,Lompat pelan-pelan,"Taman Bermain, Momen Tahan: kartu pengecoh HATI (cadangan)"
+t1_momen_balas_lompat,tara,id-ID,Melompat dari atas bisa jatuh.,"Taman Bermain, Momen Tahan: balasan bila memilih ""Lompat saja, seru!"""
+t1_momen_balas_pelan,tara,id-ID,Melompat pelan pun tetap berbahaya.,"Taman Bermain, Momen Tahan: balasan bila memilih ""Lompat pelan-pelan"""
+t1_momen_aman,tara,id-ID,Meluncur sambil duduk. Aman!,"Taman Bermain, Momen Tahan: adegan ulang aman"
+t1_momen_aturan,tara,id-ID,Aku meluncur sambil duduk.,"Taman Bermain, Momen Tahan: aturan sisik"
+t1_momen_kilat,tara,id-ID,Bima mau melompat dari tangga.,"Taman Bermain, Momen Tahan: Kartu Kilat"
+t1_momen_alasan,tara,id-ID,Melompat dari tangga bisa membuat jatuh.,"Taman Bermain, Momen Tahan: alasan Kartu Kilat dan papan Pawai"
+t1_teladan_panjat_1,tara,id-ID,Itu aman.,Taman Bermain: Teladan panjat
+t1_teladan_panjat_2,tara,id-ID,Sekar memanjat panjatan rendah.,Taman Bermain: Teladan panjat
+t1_teladan_bola_2,tara,id-ID,Tegar main di tanah lapang.,Taman Bermain: Teladan bola
+t1_aman_judul,tara,id-ID,Taman Bermain Aman!,Taman Bermain: Tempat Aman
+t1_bintang_1,tara,id-ID,Kamu dapat 1 bintang!,"Taman Bermain: Tempat Aman, 1 bintang"
+t1_bintang_2,tara,id-ID,Kamu dapat 2 bintang!,"Taman Bermain: Tempat Aman, 2 bintang"
+t1_bintang_3,tara,id-ID,Kamu dapat 3 bintang!,"Taman Bermain: Tempat Aman, 3 bintang"
+t1_hadiah_1,tara,id-ID,Perlengkapan baru!,Taman Bermain: perlengkapan baru
+t1_hadiah_2,tara,id-ID,Peluit,Taman Bermain: perlengkapan baru
+t2_masuk,tara,id-ID,Ini rumah Sari.,Rumah Sari: masuk
+t2_stopkontak_lihat,tara,id-ID,Bima mau mencolok stopkontak.,"Rumah Sari, bahaya stopkontak: LIHAT"
+t2_stopkontak_tanya,tara,id-ID,Apa yang sebaiknya Bima lakukan?,"Rumah Sari, bahaya stopkontak: PIKIR"
+t2_stopkontak_kartu_jauh,tara,id-ID,Jauhkan tangan dari stopkontak,"Rumah Sari, bahaya stopkontak: kartu benar"
+t2_stopkontak_kartu_sebentar,tara,id-ID,Colok sebentar saja,"Rumah Sari, bahaya stopkontak: kartu pengecoh SEBENTAR"
+t2_stopkontak_kartu_diam,tara,id-ID,"Colok diam-diam, tidak ketahuan","Rumah Sari, bahaya stopkontak: kartu pengecoh DIAM (cadangan)"
+t2_stopkontak_balas_sebentar,tara,id-ID,Listrik bisa menyetrum walau sebentar.,"Rumah Sari, bahaya stopkontak: balasan bila memilih ""Colok sebentar saja"""
+t2_stopkontak_balas_diam,tara,id-ID,"Walau tidak ketahuan, listrik tetap berbahaya.","Rumah Sari, bahaya stopkontak: balasan bila memilih ""Colok diam-diam, tidak ketahuan"""
+t2_stopkontak_aman,tara,id-ID,Tangan jauh dari stopkontak. Aman!,"Rumah Sari, bahaya stopkontak: adegan ulang aman"
+t2_stopkontak_aturan,tara,id-ID,Aku tidak memainkan stopkontak.,"Rumah Sari, bahaya stopkontak: aturan sisik"
+t2_stopkontak_kilat,tara,id-ID,Nino memasukkan jari ke stopkontak.,"Rumah Sari, bahaya stopkontak: Kartu Kilat"
+t2_stopkontak_alasan,tara,id-ID,Stopkontak bisa menyetrum.,"Rumah Sari, bahaya stopkontak: alasan Kartu Kilat dan papan Pawai"
+t2_gunting_lihat,tara,id-ID,Raka main pedang-pedangan pakai gunting.,"Rumah Sari, bahaya gunting: LIHAT"
+t2_gunting_kartu_taruh,tara,id-ID,"Taruh, main yang lain","Rumah Sari, bahaya gunting: kartu benar"
+t2_gunting_kartu_pelan,tara,id-ID,Main pelan-pelan saja,"Rumah Sari, bahaya gunting: kartu pengecoh HATI"
+t2_gunting_kartu_lari,tara,id-ID,Bawa sambil berlari,"Rumah Sari, bahaya gunting: kartu pengecoh CEPAT (cadangan)"
+t2_gunting_balas_pelan,tara,id-ID,Gunting itu tajam sekali.,"Rumah Sari, bahaya gunting: balasan bila memilih ""Main pelan-pelan saja"""
+t2_gunting_balas_lari,tara,id-ID,Benda tajam bisa melukai saat berlari.,"Rumah Sari, bahaya gunting: balasan bila memilih ""Bawa sambil berlari"""
+t2_gunting_aman,tara,id-ID,Gunting untuk menggunting kertas.,"Rumah Sari, bahaya gunting: adegan ulang aman"
+t2_gunting_aturan,tara,id-ID,Aku tidak bermain dengan benda tajam.,"Rumah Sari, bahaya gunting: aturan sisik"
+t2_gunting_kilat,tara,id-ID,Ayu menggunting kertas sambil duduk.,"Rumah Sari, bahaya gunting: Kartu Kilat"
+t2_gunting_alasan,tara,id-ID,Menggunting sambil duduk itu aman.,"Rumah Sari, bahaya gunting: alasan Kartu Kilat dan papan Pawai"
+t2_botol_lihat_1,tara,id-ID,Botol ini berisi cairan pembersih.,"Rumah Sari, bahaya botol: LIHAT"
+t2_botol_lihat_2,tara,id-ID,Sari pikir itu air minum.,"Rumah Sari, bahaya botol: LIHAT"
+t2_botol_kartu_tanya,tara,id-ID,Tanya orang dewasa dulu,"Rumah Sari, bahaya botol: kartu benar"
+t2_botol_kartu_cicip,tara,id-ID,Cicipi sedikit saja,"Rumah Sari, bahaya botol: kartu pengecoh SEBENTAR"
+t2_botol_kartu_cium,tara,id-ID,Cium baunya dari dekat,"Rumah Sari, bahaya botol: kartu pengecoh HATI (cadangan)"
+t2_botol_balas_cicip,tara,id-ID,Botol ini bukan minuman. Tanya orang dewasa dulu.,"Rumah Sari, bahaya botol: balasan bila memilih ""Cicipi sedikit saja"""
+t2_botol_balas_cium,tara,id-ID,Baunya pun bisa membuat sakit. Tanya orang dewasa dulu.,"Rumah Sari, bahaya botol: balasan bila memilih ""Cium baunya dari dekat"""
+t2_botol_aman,guru,id-ID,"Itu sabun, bukan minuman. Terima kasih sudah bertanya.","Rumah Sari, bahaya botol: adegan ulang aman"
+t2_botol_aturan,tara,id-ID,Aku bertanya dulu sebelum minum.,"Rumah Sari, bahaya botol: aturan sisik"
+t2_botol_kilat,tara,id-ID,Sari minum dari gelas air.,"Rumah Sari, bahaya botol: Kartu Kilat"
+t2_botol_alasan,tara,id-ID,Itu air minum di gelas.,"Rumah Sari, bahaya botol: alasan Kartu Kilat dan papan Pawai"
+t2_panci_lihat_1,tara,id-ID,Pancinya panas sekali.,"Rumah Sari, bahaya panci: LIHAT"
+t2_panci_lihat_2,tara,id-ID,Nino meraih gagangnya.,"Rumah Sari, bahaya panci: LIHAT"
+t2_panci_tanya,tara,id-ID,Apa yang sebaiknya Nino lakukan?,"Rumah Sari, bahaya panci: PIKIR"
+t2_panci_kartu_jauh,tara,id-ID,Menjauh dari kompor,"Rumah Sari, bahaya panci: kartu benar"
+t2_panci_kartu_pegang,tara,id-ID,Pegang gagang pelan-pelan,"Rumah Sari, bahaya panci: kartu pengecoh HATI"
+t2_panci_kartu_bantu,tara,id-ID,Bantu angkat pancinya,"Rumah Sari, bahaya panci: kartu pengecoh SENDIRI (cadangan)"
+t2_panci_balas_pegang,tara,id-ID,Panci panas bisa melukai tangan.,"Rumah Sari, bahaya panci: balasan bila memilih ""Pegang gagang pelan-pelan"""
+t2_panci_balas_bantu,tara,id-ID,Panci panas itu tugas orang dewasa.,"Rumah Sari, bahaya panci: balasan bila memilih ""Bantu angkat pancinya"""
+t2_panci_aman,guru,id-ID,"Terima kasih, Nino. Tunggu di sana, ya.","Rumah Sari, bahaya panci: adegan ulang aman"
+t2_panci_aturan,tara,id-ID,Aku menjauh dari kompor yang menyala.,"Rumah Sari, bahaya panci: aturan sisik"
+t2_panci_kilat,tara,id-ID,"Ayah memasak, Nino menunggu di meja.","Rumah Sari, bahaya panci: Kartu Kilat"
+t2_panci_alasan,tara,id-ID,Nino menunggu jauh dari kompor.,"Rumah Sari, bahaya panci: alasan Kartu Kilat dan papan Pawai"
+t2_basah_lihat_1,tara,id-ID,Lantainya basah dan licin.,"Rumah Sari, bahaya basah: LIHAT"
+t2_basah_lihat_2,tara,id-ID,Lala lari tanpa sandal.,"Rumah Sari, bahaya basah: LIHAT"
+t2_basah_kartu_pelan,tara,id-ID,"Jalan pelan, pakai sandal","Rumah Sari, bahaya basah: kartu benar"
+t2_basah_kartu_lari,tara,id-ID,Lari supaya cepat selesai,"Rumah Sari, bahaya basah: kartu pengecoh CEPAT"
+t2_basah_kartu_lompat,tara,id-ID,"Lompat-lompat di air, seru!","Rumah Sari, bahaya basah: kartu pengecoh IKUT (cadangan)"
+t2_basah_balas_lari,tara,id-ID,Lantai licin membuat mudah terpeleset.,"Rumah Sari, bahaya basah: balasan bila memilih ""Lari supaya cepat selesai"""
+t2_basah_balas_lompat,tara,id-ID,Air di lantai membuat licin.,"Rumah Sari, bahaya basah: balasan bila memilih ""Lompat-lompat di air, seru!"""
+t2_basah_aman,tara,id-ID,"Pakai sandal, jalan pelan. Aman!","Rumah Sari, bahaya basah: adegan ulang aman"
+t2_basah_aturan,tara,id-ID,Aku berjalan pelan di lantai basah.,"Rumah Sari, bahaya basah: aturan sisik"
+t2_basah_kilat,tara,id-ID,Bima berlari di kamar mandi.,"Rumah Sari, bahaya basah: Kartu Kilat"
+t2_basah_alasan,tara,id-ID,Lantai basah itu licin.,"Rumah Sari, bahaya basah: alasan Kartu Kilat dan papan Pawai"
+t2_momen_siap,tara,id-ID,Lihat Nino!,"Rumah Sari, Momen Tahan: persiapan"
+t2_momen_lihat,tara,id-ID,Nino naik kursi bertumpuk!,"Rumah Sari, Momen Tahan: LIHAT"
+t2_momen_kartu_minta,tara,id-ID,Minta tolong orang dewasa,"Rumah Sari, Momen Tahan: kartu benar"
+t2_momen_kartu_pelan,tara,id-ID,Naik pelan-pelan saja,"Rumah Sari, Momen Tahan: kartu pengecoh HATI"
+t2_momen_kartu_lompat,tara,id-ID,Lompat untuk meraihnya,"Rumah Sari, Momen Tahan: kartu pengecoh CEPAT (cadangan)"
+t2_momen_balas_pelan,tara,id-ID,Kursi bertumpuk mudah roboh.,"Rumah Sari, Momen Tahan: balasan bila memilih ""Naik pelan-pelan saja"""
+t2_momen_balas_lompat,tara,id-ID,Melompat dari kursi bisa jatuh.,"Rumah Sari, Momen Tahan: balasan bila memilih ""Lompat untuk meraihnya"""
+t2_momen_aman,guru,id-ID,Ini kuenya. Terima kasih sudah minta tolong.,"Rumah Sari, Momen Tahan: adegan ulang aman"
+t2_momen_aturan,tara,id-ID,Aku minta tolong mengambil barang tinggi.,"Rumah Sari, Momen Tahan: aturan sisik"
+t2_momen_kilat,tara,id-ID,Raka naik meja untuk ambil mainan.,"Rumah Sari, Momen Tahan: Kartu Kilat"
+t2_momen_alasan,tara,id-ID,Naik meja bisa membuat jatuh.,"Rumah Sari, Momen Tahan: alasan Kartu Kilat dan papan Pawai"
+t2_teladan_prakarya_2,tara,id-ID,Dina menggunting kertas sambil duduk.,Rumah Sari: Teladan prakarya
+t2_teladan_dispenser_2,tara,id-ID,Sekar ambil air dari keran biru.,Rumah Sari: Teladan dispenser
+t2_teladan_dispenser_3,tara,id-ID,Keran merah airnya panas.,Rumah Sari: Teladan dispenser
+t2_aman_judul,tara,id-ID,Rumah Sari Aman!,Rumah Sari: Tempat Aman
+t2_hadiah_2,tara,id-ID,Kotak P3K,Rumah Sari: perlengkapan baru
+t3_masuk,tara,id-ID,Ayo berangkat ke sekolah.,Jalan ke Sekolah: masuk
+t3_masuk_b,tara,id-ID,Sekarang di depan sekolah.,Jalan ke Sekolah: masuk babak 2
+t3_motor_lihat_1,tara,id-ID,Knalpot motor panas sekali.,"Jalan ke Sekolah, bahaya motor: LIHAT"
+t3_motor_lihat_2,tara,id-ID,Sari mau naik dari sini.,"Jalan ke Sekolah, bahaya motor: LIHAT"
+t3_motor_kartu_kiri,tara,id-ID,Naik jauh dari knalpot,"Jalan ke Sekolah, bahaya motor: kartu benar"
+t3_motor_kartu_cepat,tara,id-ID,"Naik dari sini saja, cepat","Jalan ke Sekolah, bahaya motor: kartu pengecoh CEPAT"
+t3_motor_kartu_sentuh,tara,id-ID,Sentuh knalpot sebentar,"Jalan ke Sekolah, bahaya motor: kartu pengecoh SEBENTAR (cadangan)"
+t3_motor_balas_cepat,tara,id-ID,Knalpot panas bisa melukai kaki.,"Jalan ke Sekolah, bahaya motor: balasan bila memilih ""Naik dari sini saja, cepat"""
+t3_motor_balas_sentuh,tara,id-ID,Knalpot tetap panas walau sebentar.,"Jalan ke Sekolah, bahaya motor: balasan bila memilih ""Sentuh knalpot sebentar"""
+t3_motor_aman,tara,id-ID,Pintar! Naik dari sisi yang aman.,"Jalan ke Sekolah, bahaya motor: adegan ulang aman"
+t3_motor_aturan,tara,id-ID,Aku menjauhi knalpot motor.,"Jalan ke Sekolah, bahaya motor: aturan sisik"
+t3_motor_kilat,tara,id-ID,Bima menyentuh knalpot motor.,"Jalan ke Sekolah, bahaya motor: Kartu Kilat"
+t3_layang_lihat,tara,id-ID,Layang-layangnya tersangkut di kabel listrik.,"Jalan ke Sekolah, bahaya layang: LIHAT"
+t3_layang_kartu_biar,tara,id-ID,"Biarkan, beri tahu orang dewasa","Jalan ke Sekolah, bahaya layang: kartu benar"
+t3_layang_kartu_tarik,tara,id-ID,Tarik talinya kuat-kuat,"Jalan ke Sekolah, bahaya layang: kartu pengecoh SENDIRI"
+t3_layang_kartu_panjat,tara,id-ID,Panjat tiangnya pelan-pelan,"Jalan ke Sekolah, bahaya layang: kartu pengecoh HATI (cadangan)"
+t3_layang_balas_tarik,tara,id-ID,Kabel listrik sangat berbahaya.,"Jalan ke Sekolah, bahaya layang: balasan bila memilih ""Tarik talinya kuat-kuat"""
+t3_layang_balas_panjat,tara,id-ID,Tiang listrik bukan untuk dipanjat.,"Jalan ke Sekolah, bahaya layang: balasan bila memilih ""Panjat tiangnya pelan-pelan"""
+t3_layang_aman,guru,id-ID,Terima kasih. Biar petugas listrik yang ambil.,"Jalan ke Sekolah, bahaya layang: adegan ulang aman"
+t3_layang_aturan,tara,id-ID,Aku menjauhi kabel listrik.,"Jalan ke Sekolah, bahaya layang: aturan sisik"
+t3_layang_kilat,tara,id-ID,Raka memanjat tiang listrik.,"Jalan ke Sekolah, bahaya layang: Kartu Kilat"
+t3_layang_alasan,tara,id-ID,Tiang dan kabel listrik berbahaya.,"Jalan ke Sekolah, bahaya layang: alasan Kartu Kilat dan papan Pawai"
+t3_got_lihat,tara,id-ID,Raka berjalan di tepi got.,"Jalan ke Sekolah, bahaya got: LIHAT"
+t3_got_kartu_jauh,tara,id-ID,Jalan menjauh dari got,"Jalan ke Sekolah, bahaya got: kartu benar"
+t3_got_kartu_lompat,tara,id-ID,"Lompati gotnya, seru!","Jalan ke Sekolah, bahaya got: kartu pengecoh IKUT"
+t3_got_kartu_tepi,tara,id-ID,Jalan di tepi sambil hati-hati,"Jalan ke Sekolah, bahaya got: kartu pengecoh HATI (cadangan)"
+t3_got_balas_lompat,tara,id-ID,Bisa terpeleset ke dalam got.,"Jalan ke Sekolah, bahaya got: balasan bila memilih ""Lompati gotnya, seru!"""
+t3_got_balas_tepi,tara,id-ID,Tepi got licin dan sempit.,"Jalan ke Sekolah, bahaya got: balasan bila memilih ""Jalan di tepi sambil hati-hati"""
+t3_got_aman,tara,id-ID,Jalan jauh dari got. Aman!,"Jalan ke Sekolah, bahaya got: adegan ulang aman"
+t3_got_aturan,tara,id-ID,Aku berjalan jauh dari got.,"Jalan ke Sekolah, bahaya got: aturan sisik"
+t3_got_kilat,tara,id-ID,Sekar berjalan jauh dari got.,"Jalan ke Sekolah, bahaya got: Kartu Kilat"
+t3_got_alasan,tara,id-ID,Sekar jauh dari tepi got.,"Jalan ke Sekolah, bahaya got: alasan Kartu Kilat dan papan Pawai"
+t3_helm_lihat,tara,id-ID,Lala mau naik motor tanpa helm.,"Jalan ke Sekolah, bahaya helm: LIHAT"
+t3_helm_kartu_helm,tara,id-ID,Pakai helm dulu,"Jalan ke Sekolah, bahaya helm: kartu benar"
+t3_helm_kartu_dekat,tara,id-ID,"Tidak usah, kan dekat","Jalan ke Sekolah, bahaya helm: kartu pengecoh SEBENTAR"
+t3_helm_kartu_topi,tara,id-ID,Pakai topi saja,"Jalan ke Sekolah, bahaya helm: kartu pengecoh HATI (cadangan)"
+t3_helm_balas_dekat,tara,id-ID,Jarak dekat pun perlu helm.,"Jalan ke Sekolah, bahaya helm: balasan bila memilih ""Tidak usah, kan dekat"""
+t3_helm_balas_topi,tara,id-ID,Topi tidak melindungi kepala.,"Jalan ke Sekolah, bahaya helm: balasan bila memilih ""Pakai topi saja"""
+t3_helm_aman,tara,id-ID,"Helm dipakai, talinya dikunci. Ayo!","Jalan ke Sekolah, bahaya helm: adegan ulang aman"
+t3_helm_aturan,tara,id-ID,Aku memakai helm saat naik motor.,"Jalan ke Sekolah, bahaya helm: aturan sisik"
+t3_helm_kilat,tara,id-ID,Sari memakai helm di motor.,"Jalan ke Sekolah, bahaya helm: Kartu Kilat"
+t3_helm_alasan,tara,id-ID,Helm melindungi kepala.,"Jalan ke Sekolah, bahaya helm: alasan Kartu Kilat dan papan Pawai"
+t3_seberang_lihat_1,tara,id-ID,Dina mau menyeberang di sini.,"Jalan ke Sekolah, bahaya seberang: LIHAT"
+t3_seberang_lihat_2,tara,id-ID,Zebra cross ada di sana.,"Jalan ke Sekolah, bahaya seberang: LIHAT"
+t3_seberang_tanya,tara,id-ID,Apa yang sebaiknya Dina lakukan?,"Jalan ke Sekolah, bahaya seberang: PIKIR"
+t3_seberang_kartu_zebra,tara,id-ID,Lewat zebra cross bersama Ibu,"Jalan ke Sekolah, bahaya seberang: kartu benar"
+t3_seberang_kartu_lari,tara,id-ID,Lari menyeberang cepat-cepat,"Jalan ke Sekolah, bahaya seberang: kartu pengecoh CEPAT"
+t3_seberang_kartu_sendiri,tara,id-ID,Menyeberang sendiri saja,"Jalan ke Sekolah, bahaya seberang: kartu pengecoh SENDIRI (cadangan)"
+t3_seberang_balas_lari,tara,id-ID,Kendaraan bisa datang tiba-tiba.,"Jalan ke Sekolah, bahaya seberang: balasan bila memilih ""Lari menyeberang cepat-cepat"""
+t3_seberang_balas_sendiri,tara,id-ID,Anak menyeberang bersama orang dewasa.,"Jalan ke Sekolah, bahaya seberang: balasan bila memilih ""Menyeberang sendiri saja"""
+t3_seberang_aman,tara,id-ID,"Ayo, kita lewat zebra cross.","Jalan ke Sekolah, bahaya seberang: adegan ulang aman"
+t3_seberang_aturan,tara,id-ID,Aku menyeberang di zebra cross bersama orang dewasa.,"Jalan ke Sekolah, bahaya seberang: aturan sisik"
+t3_seberang_kilat,tara,id-ID,Lala ke zebra cross bersama Ibu.,"Jalan ke Sekolah, bahaya seberang: Kartu Kilat"
+t3_seberang_alasan,tara,id-ID,Lala menyeberang bersama orang dewasa.,"Jalan ke Sekolah, bahaya seberang: alasan Kartu Kilat dan papan Pawai"
+t3_momen_siap,tara,id-ID,Lihat Ayu!,"Jalan ke Sekolah, Momen Tahan: persiapan"
+t3_momen_lihat,tara,id-ID,Bola Ayu masuk ke jalan!,"Jalan ke Sekolah, Momen Tahan: LIHAT"
+t3_momen_kartu_minta,tara,id-ID,"Berhenti, panggil orang dewasa","Jalan ke Sekolah, Momen Tahan: kartu benar"
+t3_momen_kartu_kejar,tara,id-ID,Kejar bolanya cepat-cepat,"Jalan ke Sekolah, Momen Tahan: kartu pengecoh CEPAT"
+t3_momen_kartu_lihat,tara,id-ID,Kejar sambil lihat-lihat,"Jalan ke Sekolah, Momen Tahan: kartu pengecoh HATI (cadangan)"
+t3_momen_balas_lihat,tara,id-ID,Berlari ke jalan tetap berbahaya.,"Jalan ke Sekolah, Momen Tahan: balasan bila memilih ""Kejar sambil lihat-lihat"""
+t3_momen_aman,guru,id-ID,Ibu ambilkan bolanya. Terima kasih menunggu.,"Jalan ke Sekolah, Momen Tahan: adegan ulang aman"
+t3_momen_aturan,tara,id-ID,Aku tidak mengejar bola ke jalan.,"Jalan ke Sekolah, Momen Tahan: aturan sisik"
+t3_momen_kilat,tara,id-ID,Bima mengejar bola ke jalan.,"Jalan ke Sekolah, Momen Tahan: Kartu Kilat"
+t3_teladan_trotoar_2,tara,id-ID,Tegar menunggu di trotoar.,Jalan ke Sekolah: Teladan trotoar
+t3_aman_judul,tara,id-ID,Jalan ke Sekolah Aman!,Jalan ke Sekolah: Tempat Aman
+t3_hadiah_2,tara,id-ID,Rompi terang,Jalan ke Sekolah: perlengkapan baru
+t4_masuk,tara,id-ID,Ini lapangan dan kolam renang.,Lapangan dan Kolam: masuk
+t4_bola_lihat,tara,id-ID,Bima main bola dekat jendela kaca.,"Lapangan dan Kolam, bahaya bola: LIHAT"
+t4_bola_kartu_tengah,tara,id-ID,Main di tengah lapangan,"Lapangan dan Kolam, bahaya bola: kartu benar"
+t4_bola_kartu_pelan,tara,id-ID,Tendang pelan-pelan saja,"Lapangan dan Kolam, bahaya bola: kartu pengecoh HATI"
+t4_bola_kartu_situ,tara,id-ID,"Main di situ, kan seru","Lapangan dan Kolam, bahaya bola: kartu pengecoh IKUT (cadangan)"
+t4_bola_balas_pelan,tara,id-ID,Kaca bisa pecah dan melukai.,"Lapangan dan Kolam, bahaya bola: balasan bila memilih ""Tendang pelan-pelan saja"""
+t4_bola_balas_situ,tara,id-ID,Dekat jendela kaca berbahaya.,"Lapangan dan Kolam, bahaya bola: balasan bila memilih ""Main di situ, kan seru"""
+t4_bola_aman,tara,id-ID,Main di tengah lapangan. Aman!,"Lapangan dan Kolam, bahaya bola: adegan ulang aman"
+t4_bola_aturan,tara,id-ID,Aku bermain bola jauh dari kaca.,"Lapangan dan Kolam, bahaya bola: aturan sisik"
+t4_bola_kilat,tara,id-ID,Bima menendang bola ke kaca.,"Lapangan dan Kolam, bahaya bola: Kartu Kilat"
+t4_bola_alasan,tara,id-ID,Bola bisa memecahkan kaca.,"Lapangan dan Kolam, bahaya bola: alasan Kartu Kilat dan papan Pawai"
+t4_lari_lihat,tara,id-ID,Raka mau langsung lari kencang.,"Lapangan dan Kolam, bahaya lari: LIHAT"
+t4_lari_kartu_pemanasan,tara,id-ID,Pemanasan dulu,"Lapangan dan Kolam, bahaya lari: kartu benar"
+t4_lari_kartu_menang,tara,id-ID,Langsung lari biar menang,"Lapangan dan Kolam, bahaya lari: kartu pengecoh CEPAT"
+t4_lari_kartu_nanti,tara,id-ID,Pemanasan nanti saja,"Lapangan dan Kolam, bahaya lari: kartu pengecoh SEBENTAR (cadangan)"
+t4_lari_balas_menang,tara,id-ID,"Tanpa pemanasan, otot bisa sakit.","Lapangan dan Kolam, bahaya lari: balasan bila memilih ""Langsung lari biar menang"""
+t4_lari_balas_nanti,tara,id-ID,Pemanasan dilakukan sebelum berlari.,"Lapangan dan Kolam, bahaya lari: balasan bila memilih ""Pemanasan nanti saja"""
+t4_lari_aman,tara,id-ID,"Ayo, kita pemanasan bersama!","Lapangan dan Kolam, bahaya lari: adegan ulang aman"
+t4_lari_aturan,tara,id-ID,Aku pemanasan sebelum berolahraga.,"Lapangan dan Kolam, bahaya lari: aturan sisik"
+t4_lari_kilat,tara,id-ID,Sekar pemanasan sebelum berlari.,"Lapangan dan Kolam, bahaya lari: Kartu Kilat"
+t4_lari_alasan,tara,id-ID,Pemanasan membuat badan siap.,"Lapangan dan Kolam, bahaya lari: alasan Kartu Kilat dan papan Pawai"
+t4_tali_lihat,tara,id-ID,Tali sepatu Sari lepas.,"Lapangan dan Kolam, bahaya tali: LIHAT"
+t4_tali_kartu_ikat,tara,id-ID,"Ikat dulu, atau minta tolong","Lapangan dan Kolam, bahaya tali: kartu benar"
+t4_tali_kartu_lari,tara,id-ID,"Lari saja, nanti juga beres","Lapangan dan Kolam, bahaya tali: kartu pengecoh SEBENTAR"
+t4_tali_kartu_pelan,tara,id-ID,Lari pelan-pelan saja,"Lapangan dan Kolam, bahaya tali: kartu pengecoh HATI (cadangan)"
+t4_tali_balas_lari,tara,id-ID,Tali lepas bisa membuat tersandung.,"Lapangan dan Kolam, bahaya tali: balasan bila memilih ""Lari saja, nanti juga beres"""
+t4_tali_balas_pelan,tara,id-ID,Tersandung bisa terjadi walau pelan.,"Lapangan dan Kolam, bahaya tali: balasan bila memilih ""Lari pelan-pelan saja"""
+t4_tali_aman,tara,id-ID,Talinya terikat. Siap berlari!,"Lapangan dan Kolam, bahaya tali: adegan ulang aman"
+t4_tali_aturan,tara,id-ID,Aku mengikat tali sepatu dulu.,"Lapangan dan Kolam, bahaya tali: aturan sisik"
+t4_tali_kilat,tara,id-ID,Raka berlari dengan tali lepas.,"Lapangan dan Kolam, bahaya tali: Kartu Kilat"
+t4_masuk_lihat,tara,id-ID,Belum ada orang dewasa di kolam.,"Lapangan dan Kolam, bahaya masuk: LIHAT"
+t4_masuk_kartu_tunggu,tara,id-ID,Tunggu penjaga kolam,"Lapangan dan Kolam, bahaya masuk: kartu benar"
+t4_masuk_kartu_sendiri,tara,id-ID,"Berenang sendiri, aku sudah bisa","Lapangan dan Kolam, bahaya masuk: kartu pengecoh SENDIRI"
+t4_masuk_kartu_sebentar,tara,id-ID,Masuk sebentar saja,"Lapangan dan Kolam, bahaya masuk: kartu pengecoh SEBENTAR (cadangan)"
+t4_masuk_balas_sendiri,tara,id-ID,Berenang harus diawasi orang dewasa.,"Lapangan dan Kolam, bahaya masuk: balasan bila memilih ""Berenang sendiri, aku sudah bisa"""
+t4_masuk_balas_sebentar,tara,id-ID,Sebentar di kolam pun berbahaya.,"Lapangan dan Kolam, bahaya masuk: balasan bila memilih ""Masuk sebentar saja"""
+t4_masuk_aman,tara,id-ID,Kakak sudah di sini. Ayo berenang!,"Lapangan dan Kolam, bahaya masuk: adegan ulang aman"
+t4_masuk_aturan,tara,id-ID,Aku berenang bila diawasi orang dewasa.,"Lapangan dan Kolam, bahaya masuk: aturan sisik"
+t4_masuk_kilat,tara,id-ID,Lala berenang ditemani penjaga.,"Lapangan dan Kolam, bahaya masuk: Kartu Kilat"
+t4_masuk_alasan,tara,id-ID,Ada penjaga yang mengawasi.,"Lapangan dan Kolam, bahaya masuk: alasan Kartu Kilat dan papan Pawai"
+t4_licin_lihat,tara,id-ID,Dina berlari di tepi kolam.,"Lapangan dan Kolam, bahaya licin: LIHAT"
+t4_licin_kartu_jalan,tara,id-ID,"Jalan pelan, jangan berlari","Lapangan dan Kolam, bahaya licin: kartu benar"
+t4_licin_kartu_cepat,tara,id-ID,Lari supaya cepat masuk air,"Lapangan dan Kolam, bahaya licin: kartu pengecoh CEPAT"
+t4_licin_kartu_hati,tara,id-ID,Lari sambil hati-hati,"Lapangan dan Kolam, bahaya licin: kartu pengecoh HATI (cadangan)"
+t4_licin_balas_cepat,tara,id-ID,Tepi kolam licin sekali.,"Lapangan dan Kolam, bahaya licin: balasan bila memilih ""Lari supaya cepat masuk air"""
+t4_licin_balas_hati,tara,id-ID,Berlari di tepi kolam mudah terpeleset.,"Lapangan dan Kolam, bahaya licin: balasan bila memilih ""Lari sambil hati-hati"""
+t4_licin_aman,tara,id-ID,"Jalan pelan di tepi kolam, ya.","Lapangan dan Kolam, bahaya licin: adegan ulang aman"
+t4_licin_aturan,tara,id-ID,Aku berjalan pelan di tepi kolam.,"Lapangan dan Kolam, bahaya licin: aturan sisik"
+t4_licin_kilat,tara,id-ID,Ayu berjalan pelan di tepi kolam.,"Lapangan dan Kolam, bahaya licin: Kartu Kilat"
+t4_licin_alasan,tara,id-ID,"Ayu berjalan pelan, tidak berlari.","Lapangan dan Kolam, bahaya licin: alasan Kartu Kilat dan papan Pawai"
+t4_momen_siap,tara,id-ID,Lihat Sekar!,"Lapangan dan Kolam, Momen Tahan: persiapan"
+t4_momen_lihat,tara,id-ID,Sekar mau melompat ke bagian dalam!,"Lapangan dan Kolam, Momen Tahan: LIHAT"
+t4_momen_tanya,tara,id-ID,Apa yang sebaiknya Sekar lakukan?,"Lapangan dan Kolam, Momen Tahan: PIKIR"
+t4_momen_kartu_dangkal,tara,id-ID,Masuk di bagian dangkal,"Lapangan dan Kolam, Momen Tahan: kartu benar"
+t4_momen_kartu_teman,tara,id-ID,"Lompat saja, kan ada teman","Lapangan dan Kolam, Momen Tahan: kartu pengecoh IKUT"
+t4_momen_kartu_napas,tara,id-ID,Lompat sambil tahan napas,"Lapangan dan Kolam, Momen Tahan: kartu pengecoh HATI (cadangan)"
+t4_momen_balas_teman,tara,id-ID,Bagian dalam berbahaya untuk anak.,"Lapangan dan Kolam, Momen Tahan: balasan bila memilih ""Lompat saja, kan ada teman"""
+t4_momen_balas_napas,tara,id-ID,Air dalam tetap berbahaya.,"Lapangan dan Kolam, Momen Tahan: balasan bila memilih ""Lompat sambil tahan napas"""
+t4_momen_aman,tara,id-ID,Masuk lewat tangga di bagian dangkal.,"Lapangan dan Kolam, Momen Tahan: adegan ulang aman"
+t4_momen_aturan,tara,id-ID,Aku berenang di bagian dangkal.,"Lapangan dan Kolam, Momen Tahan: aturan sisik"
+t4_momen_kilat,tara,id-ID,Raka melompat ke kolam dalam.,"Lapangan dan Kolam, Momen Tahan: Kartu Kilat"
+t4_momen_alasan,tara,id-ID,Kolam dalam berbahaya untuk anak.,"Lapangan dan Kolam, Momen Tahan: alasan Kartu Kilat dan papan Pawai"
+t4_teladan_istirahat_2,tara,id-ID,Tegar minum dan beristirahat.,Lapangan dan Kolam: Teladan istirahat
+t4_teladan_ikat_2,tara,id-ID,Lala mengikat tali sepatunya dulu.,Lapangan dan Kolam: Teladan ikat
+t4_aman_judul,tara,id-ID,Lapangan dan Kolam Aman!,Lapangan dan Kolam: Tempat Aman
+t4_hadiah_2,tara,id-ID,Topi pelindung matahari,Lapangan dan Kolam: perlengkapan baru
+t5_masuk,tara,id-ID,"Hujan turun. Tetap siaga, ya!",Hari Hujan: masuk
+t5_sungai_lihat_1,tara,id-ID,Air sungai naik dan deras.,"Hari Hujan, bahaya sungai: LIHAT"
+t5_sungai_lihat_2,tara,id-ID,Raka mau main air.,"Hari Hujan, bahaya sungai: LIHAT"
+t5_sungai_kartu_jauh,tara,id-ID,Menjauh dari sungai,"Hari Hujan, bahaya sungai: kartu benar"
+t5_sungai_kartu_pinggir,tara,id-ID,Main di pinggir saja,"Hari Hujan, bahaya sungai: kartu pengecoh HATI"
+t5_sungai_kartu_teman,tara,id-ID,Ikut teman main air,"Hari Hujan, bahaya sungai: kartu pengecoh IKUT (cadangan)"
+t5_sungai_balas_pinggir,tara,id-ID,"Tepi sungai licin, kamu bisa terpeleset.","Hari Hujan, bahaya sungai: balasan bila memilih ""Main di pinggir saja"""
+t5_sungai_balas_teman,tara,id-ID,Arus sungai yang deras sangat kuat.,"Hari Hujan, bahaya sungai: balasan bila memilih ""Ikut teman main air"""
+t5_sungai_aman,tara,id-ID,Raka menjauh dari sungai. Aman!,"Hari Hujan, bahaya sungai: adegan ulang aman"
+t5_sungai_aturan,tara,id-ID,"Saat hujan, aku menjauh dari sungai.","Hari Hujan, bahaya sungai: aturan sisik"
+t5_sungai_kilat,tara,id-ID,Bima melihat hujan dari teras.,"Hari Hujan, bahaya sungai: Kartu Kilat"
+t5_sungai_alasan,tara,id-ID,"Bima berteduh, jauh dari sungai.","Hari Hujan, bahaya sungai: alasan Kartu Kilat dan papan Pawai"
+t5_petir_lihat_1,tara,id-ID,Ada kilat di langit.,"Hari Hujan, bahaya petir: LIHAT"
+t5_petir_lihat_2,tara,id-ID,Sari dan Dina masih di lapangan.,"Hari Hujan, bahaya petir: LIHAT"
+t5_petir_tanya,tara,id-ID,Apa yang sebaiknya mereka lakukan?,"Hari Hujan, bahaya petir: PIKIR"
+t5_petir_kartu_masuk,tara,id-ID,Masuk ke dalam bangunan,"Hari Hujan, bahaya petir: kartu benar"
+t5_petir_kartu_pohon,tara,id-ID,Berteduh di bawah pohon,"Hari Hujan, bahaya petir: kartu pengecoh HATI"
+t5_petir_kartu_sebentar,tara,id-ID,Main sebentar lagi,"Hari Hujan, bahaya petir: kartu pengecoh SEBENTAR (cadangan)"
+t5_petir_balas_pohon,tara,id-ID,Pohon bukan tempat berlindung dari petir.,"Hari Hujan, bahaya petir: balasan bila memilih ""Berteduh di bawah pohon"""
+t5_petir_balas_sebentar,tara,id-ID,Petir bisa datang kapan saja.,"Hari Hujan, bahaya petir: balasan bila memilih ""Main sebentar lagi"""
+t5_petir_aman,tara,id-ID,Masuk ke rumah. Aman dari petir!,"Hari Hujan, bahaya petir: adegan ulang aman"
+t5_petir_aturan,tara,id-ID,"Saat petir, aku masuk ke bangunan.","Hari Hujan, bahaya petir: aturan sisik"
+t5_petir_kilat,tara,id-ID,Raka main layangan saat petir.,"Hari Hujan, bahaya petir: Kartu Kilat"
+t5_petir_alasan,tara,id-ID,"Saat petir, kita masuk ke bangunan.","Hari Hujan, bahaya petir: alasan Kartu Kilat dan papan Pawai"
+t5_kabel_lihat_1,tara,id-ID,Kabel listrik jatuh ke genangan.,"Hari Hujan, bahaya kabel: LIHAT"
+t5_kabel_lihat_2,tara,id-ID,Nino mau melompatinya.,"Hari Hujan, bahaya kabel: LIHAT"
+t5_kabel_kartu_jauh,tara,id-ID,"Menjauh, panggil orang dewasa","Hari Hujan, bahaya kabel: kartu benar"
+t5_kabel_kartu_lompat,tara,id-ID,Lompati genangannya,"Hari Hujan, bahaya kabel: kartu pengecoh IKUT"
+t5_kabel_kartu_pindah,tara,id-ID,Pindahkan kabelnya sendiri,"Hari Hujan, bahaya kabel: kartu pengecoh SENDIRI (cadangan)"
+t5_kabel_balas_lompat,tara,id-ID,Air di dekat kabel bisa menyetrum.,"Hari Hujan, bahaya kabel: balasan bila memilih ""Lompati genangannya"""
+t5_kabel_balas_pindah,tara,id-ID,Kabel listrik itu tugas orang dewasa.,"Hari Hujan, bahaya kabel: balasan bila memilih ""Pindahkan kabelnya sendiri"""
+t5_kabel_aman,guru,id-ID,"Terima kasih, Nino. Ayah telepon petugas listrik.","Hari Hujan, bahaya kabel: adegan ulang aman"
+t5_kabel_aturan,tara,id-ID,Aku menjauhi kabel yang jatuh.,"Hari Hujan, bahaya kabel: aturan sisik"
+t5_kabel_kilat,tara,id-ID,Sekar memegang tiang listrik basah.,"Hari Hujan, bahaya kabel: Kartu Kilat"
+t5_kabel_alasan,tara,id-ID,Tiang listrik basah bisa menyetrum.,"Hari Hujan, bahaya kabel: alasan Kartu Kilat dan papan Pawai"
+t5_aman_judul,tara,id-ID,Hari Hujan Aman!,Hari Hujan: Tempat Aman
+t5_hadiah_2,tara,id-ID,Jas hujan,Hari Hujan: perlengkapan baru
+seberang_ajak_1,tara,id-ID,"Bantu Dina menyeberang, ya.",Ayo Menyeberang: ajakan
+seberang_ajak_2,tara,id-ID,"Berhenti, lihat kanan, kiri, lalu kanan lagi.",Ayo Menyeberang: ajakan
+seberang_putaran_1,tara,id-ID,Jalan sepi. Ayo mulai!,Ayo Menyeberang: awal putaran 1
+seberang_putaran_2,tara,id-ID,Ada motor di jalan.,Ayo Menyeberang: awal putaran 2
+seberang_putaran_3,tara,id-ID,"Perhatikan baik-baik, ya.",Ayo Menyeberang: awal putaran 3
+seberang_berhenti,tara,id-ID,Berhenti di tepi jalan.,Ayo Menyeberang: langkah berhenti
+seberang_kanan,tara,id-ID,Lihat ke kanan.,Ayo Menyeberang: langkah kanan
+seberang_kiri,tara,id-ID,Lihat ke kiri.,Ayo Menyeberang: langkah kiri
+seberang_kanan2,tara,id-ID,Lihat ke kanan lagi.,Ayo Menyeberang: langkah kanan2
+seberang_seberang,tara,id-ID,"Ayo menyeberang, bergandengan.",Ayo Menyeberang: langkah seberang
+seberang_kosong,tara,id-ID,Jalan kosong.,Ayo Menyeberang: jalan kosong
+seberang_tunggu,guru,id-ID,"Tunggu, ada motor.","Ayo Menyeberang: Ibu Dina menahan, motor lewat"
+seberang_tunggu_angkot,guru,id-ID,"Tunggu, ada angkot.","Ayo Menyeberang: Ibu Dina menahan, angkot lewat"
+seberang_lihat_lagi,tara,id-ID,"Sudah lewat. Lihat lagi, ya.",Ayo Menyeberang: sesudah kendaraan lewat
+seberang_salah_urut,guru,id-ID,"Berhenti dulu, lalu lihat.",Ayo Menyeberang: menyeberang terlalu awal
+seberang_salah_langkah,tara,id-ID,"Hmm, ikuti urutannya.",Ayo Menyeberang: urutan salah
+seberang_sampai,tara,id-ID,"Hore, sampai dengan aman!",Ayo Menyeberang: sampai di seberang
+seberang_selesai,tara,id-ID,Kamu pintar menyeberang!,Ayo Menyeberang: selesai
+gerak_ajak,tara,id-ID,Ayo berdiri dan bergerak bersama Tara!,Gerak Siaga: ajakan
+gerak_ajak_kursi,tara,id-ID,"Duduk tegak, ayo bergerak bersama Tara!",Gerak Siaga: ajakan (mode kursi)
+gerak_1,tara,id-ID,Jalan di tempat!,Gerak Siaga: Jalan di tempat
+gerak_2,tara,id-ID,Putar bahu ke depan dan belakang!,Gerak Siaga: Putar bahu
+gerak_3,tara,id-ID,"Jongkok peluk lutut, lalu berdiri tinggi!",Gerak Siaga: Gulung Trenggiling
+gerak_4,tara,id-ID,"Bergerak bebas. Saat Tara menggulung, diam!",Gerak Siaga: Patung!
+gerak_kursi_2,tara,id-ID,Tepuk lutut bersama!,Gerak Siaga (mode kursi): Tepuk lutut
+gerak_kursi_3,tara,id-ID,"Peluk lutut, lalu duduk tegak!",Gerak Siaga (mode kursi): Peluk lutut
+gerak_kursi_4,tara,id-ID,"Gerakkan tangan. Saat Tara menggulung, diam!",Gerak Siaga (mode kursi): Patung!
+gerak_patung,tara,id-ID,Patung!,Gerak Siaga: semua diam
+gerak_selesai,tara,id-ID,Hebat! Badan sudah siap.,Gerak Siaga: selesai
+pawai_mulai,tara,id-ID,Ayo ikut Pawai Siaga!,Pawai Siaga
+pawai_benarAman,tara,id-ID,"Betul, itu aman!",Pawai Siaga
+pawai_benarTahan,tara,id-ID,"Betul, tahan dulu.",Pawai Siaga
+pawai_perakEmas,tara,id-ID,Sisik perak jadi emas!,Pawai Siaga
+pawai_penutup,tara,id-ID,Kampung kita aman!,Pawai Siaga
+pawai_transfer_korek,tara,id-ID,Nino bermain korek api.,Pawai Siaga: papan baru (tahan)
+pawai_transfer_korek_cara,tara,id-ID,Korek api hanya untuk orang dewasa.,Pawai Siaga: cara aman di balik papan
+pawai_transfer_korek_alasan,tara,id-ID,Api bisa membakar.,Pawai Siaga: alasan papan baru
+pawai_transfer_sumur,tara,id-ID,Raka bermain di dekat sumur terbuka.,Pawai Siaga: papan baru (tahan)
+pawai_transfer_sumur_cara,tara,id-ID,Aku menjauhi sumur terbuka.,Pawai Siaga: cara aman di balik papan
+pawai_transfer_sumur_alasan,tara,id-ID,Sumur terbuka sangat dalam.,Pawai Siaga: alasan papan baru
+pawai_transfer_jendela,tara,id-ID,Tangan Bima keluar jendela angkot.,Pawai Siaga: papan baru (tahan)
+pawai_transfer_jendela_cara,tara,id-ID,Tangan tetap di dalam kendaraan.,Pawai Siaga: cara aman di balik papan
+pawai_transfer_jendela_alasan,tara,id-ID,Tangan di luar jendela berbahaya.,Pawai Siaga: alasan papan baru
+pawai_transfer_sepeda,tara,id-ID,Sari bersepeda memakai helm.,Pawai Siaga: papan baru (aman)
+pawai_transfer_sabuk,tara,id-ID,Dina memakai sabuk pengaman di mobil.,Pawai Siaga: papan baru (aman)
+pawai_transfer_sabuk_alasan,tara,id-ID,Sabuk menjaga badan tetap di kursi.,Pawai Siaga: alasan papan baru
+pawai_transfer_lutut,tara,id-ID,Ayu memakai pelindung lutut.,Pawai Siaga: papan baru (aman)
+pawai_transfer_lutut_alasan,tara,id-ID,Pelindung lutut menjaga lututmu.,Pawai Siaga: alasan papan baru
+peta_pilih,tara,id-ID,Pilih tempat bermain.,Peta Kampung
+peta_terkunci,tara,id-ID,Selesaikan keempat tempat dulu.,Peta Kampung: Pawai masih terkunci
+hasil_judul,tara,id-ID,Hasil Belajarku!,Hasil Belajarku
+hasil_jurus_mata-jeli,tara,id-ID,Aku bisa menemukan hal berbahaya.,Hasil Belajarku: jurus Mata Jeli
+hasil_jurus_menjauh,tara,id-ID,Aku menjauh dari benda berbahaya.,Hasil Belajarku: jurus Menjauh
+hasil_jurus_pelindung,tara,id-ID,Aku memakai helm dan sandal.,Hasil Belajarku: jurus Pakai Pelindung
+hasil_jurus_berhenti,tara,id-ID,"Aku berhenti dulu, lalu berpikir.",Hasil Belajarku: jurus Berhenti
+hasil_jurus_beritahu,tara,id-ID,Aku memberi tahu orang dewasa.,Hasil Belajarku: jurus Beri Tahu Orang Dewasa
+hasil_jurus_aturan,tara,id-ID,Aku antre dan ikut aturan bermain.,Hasil Belajarku: jurus Ikuti Aturan Main
+hasil_latih,tara,id-ID,"Yang ini, ayo terus berlatih!",Hasil Belajarku: jurus yang perlu dilatih
